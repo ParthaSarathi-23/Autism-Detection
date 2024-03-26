@@ -21,7 +21,7 @@ The demo video is given : /screenshots/demo.mp4
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/kAmal-NithisH18/Autism-Detection/
+    git clone https://github.com/ParthaSarathi-23/Autism-Detection/
     ```
 
 2. Navigate to the project directory:
@@ -46,19 +46,19 @@ streamlit run Home.py
 ![Alert System](/aut1.png)
 
 
-![Screenshot 2](/screenshots/aut2.png)
-![Screenshot 2](/screenshots/aut3.png)
-![Screenshot 2:](/screenshots/aut4.png)
-![Screenshot 2](/screenshots/aut5.png)
+![Screenshot 2](/aut2.png)
+![Screenshot 2](/aut3.png)
+![Screenshot 2:](/aut4.png)
+![Screenshot 2](/aut5.png)
 
 ## LIME EXPLANATION
 
-![Screenshot 2](/screenshots/aut6.png)
-![Screenshot 2](/screenshots/aut7.png)
+![Screenshot 2](/aut6.png)
+![Screenshot 2](/aut7.png)
 
 ## PLOTS
 
-![Screenshot 2](/screenshots/aut8.png)
-![Screenshot 2](/screenshots/aut9.png)
-![Screenshot 2](/screenshots/aut10.png)
+![Screenshot 2](/aut8.png)
+![Screenshot 2](/aut9.png)
+![Screenshot 2](/aut10.png)
 
