@@ -43,7 +43,7 @@ streamlit run Home.py
 ```
 ## SCREENSHOTS
 
-![Alert System](/screenshots/aut1.png)
+![Alert System](/aut1.png)
 
 
 ![Screenshot 2](/screenshots/aut2.png)
